@@ -102,3 +102,18 @@ INSERT INTO student(id,department_id, group_id, surname,
 INSERT INTO student(id,department_id, group_id, surname,
 "name",last_name,is_head) VALUES
 (34,7,6,'Алеев','Рустем','Мурадович',FALSE);
+INSERT INTO student(id,department_id, group_id, surname,
+"name",last_name,is_head) VALUES
+(35,1,2,'Борщ','Юлия','Александровна',FALSE);
+INSERT INTO student(id,department_id, group_id, surname,
+"name",last_name,is_head) VALUES
+(36,1,2,'Шопарева','Зоя','Дмитриевна',FALSE);
+INSERT INTO student(id,department_id, group_id, surname,
+"name",last_name,is_head) VALUES
+(37,1,2,'Тыщенко','Ольга','Владимировна',TRUE);
+INSERT INTO student(id,department_id, group_id, surname,
+"name",last_name,is_head) VALUES
+(38,5,3,'Крюков','Григорий','Федорович',TRUE);
+INSERT INTO student(id,department_id, group_id, surname,
+"name",last_name,is_head) VALUES
+(39,5,3,'Юн','Пек','Фать',FALSE);
